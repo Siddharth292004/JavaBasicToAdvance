@@ -8,7 +8,7 @@
 // J  J  aaaaa   V V  aaaaa                                                
 //  JJ  a     a   V  a     a
 
-public class program_8 {
+public class program_08 {
      public static void main(String[] args) {
         // Display the characters to form the text "Java" in a specific pattern
         System.out.println("   J    a   v     v  a ");
