@@ -3,5 +3,6 @@
         "Abramov",
         "Jitendra",
         "primitivedatatypes"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
