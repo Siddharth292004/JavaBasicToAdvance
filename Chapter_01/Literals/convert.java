@@ -1,4 +1,4 @@
-public class program_03 {
+public class convert {
     public static void main(String[] args) {
         // Loop from 0 to 25 (26 letters)
         for (int i = 0; i < 26; i++) {

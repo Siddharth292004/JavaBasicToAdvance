@@ -14,6 +14,9 @@ public class sumTwoNumber {
          System.out.println("Sum of two number: " + result);
          sc.close();
       }
+      catch (Exception e) {
+            System.out.println("Invalid input! Please enter a number.");
+        }
    }
 
    public static int addFun(int num1, int num2) {

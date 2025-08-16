@@ -1,4 +1,4 @@
-public class program_02 {
+public class datatype {
     public static void main(String [] args){
         byte color = 1_2_3;
         short yearsAnnoDomini = 2_016;
