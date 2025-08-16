@@ -5,7 +5,7 @@
 // 16
 
 
-public class program_03 {
+public class division {
 
     public static void main(String[] args) {
         int num1 = 50;
