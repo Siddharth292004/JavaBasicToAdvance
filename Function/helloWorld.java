@@ -1,8 +1,6 @@
 // Create a function to print "Hello World
 
-package Function;
-
-public class program_01 {
+public class helloWorld {
     public static void main(String[] args) {
         hellWorldPrint();
     }
