@@ -1,4 +1,3 @@
-package Array.beginner;
 
 import java.util.Scanner;
 
